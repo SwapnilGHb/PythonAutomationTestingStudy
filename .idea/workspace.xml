@@ -1,71 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="b5c3d3ef-fcde-4ea3-a8f7-0b474073644b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/PyATB5xLearning/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyATB5xLearning/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyATB5xLearning/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyATB5xLearning/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyATB5xLearning/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyATB5xLearning/Dec/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyATB5xLearning/Dec/ex_28122024_Pytest/Lab185.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyATB5xLearning/Dec/ex_28122024_Pytest/Test1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyATB5xLearning/Dec/ex_28122024_Pytest/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyATB5xLearning/Dec/ex_28122024_Pytest/test_Lab186_Pytest_Learning.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyATB5xLearning/Dec/ex_28122024_Pytest/test_Lab187_Pytest_Learning02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyATB5xLearning/Dec/ex_28122024_Pytest/test_Lab188_Pytest_Learning_Allure.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyATB5xLearning/allure-result/29f708e7-c931-4717-ab3e-fdccceb75b59-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyATB5xLearning/allure-result/3aa40ecc-414e-423a-8027-bf80bb9d3c6d-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyATB5xLearning/allure-result/5ee6f8fa-3de3-4dfb-bea0-3eb69e379763-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyATB5xLearning/allure-result/b4b276a6-1d1b-4950-9691-f9affec068e4-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyATB5xLearning/allure-result/b7bfa963-ea64-4ebb-a8ec-eec678462bd1-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyATB5xLearning/allure-result/f1a6f860-6df0-470d-8942-731bf9db1f56-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyATB5xLearning/allure1/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyATB5xLearning/allure1/test_LearningAllure.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyATB5xLearning/allure_result/52b543b6-5441-4f3f-8d46-379bf149723e-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyATB5xLearning/allure_result/7a1b90e5-8c85-4c38-8548-a3919c5c034a-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyATB5xLearning/allure_result/93efe693-3b98-4fc2-868f-61a9a1b52082-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyATB5xLearning/allure_result/a3cf44c3-2c69-4347-8f3b-f2126beabdcf-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyATB5xLearning/allure_result/d6453920-514c-419c-b887-637da6e318e8-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyATB5xLearning/allure_result/e4e23b9a-24b7-4cfe-9f1c-d513ce9fcdb3-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyATB5xLearning/assets/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyATB5xLearning/report.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyATB5xLearning/reportsallure/007082e6-a4e3-4ce5-8f91-5202867e9ed9-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyATB5xLearning/reportsallure/05637d15-46ca-465a-b927-9270f445f55b-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyATB5xLearning/reportsallure/0c912ea8-9d44-47d6-b992-9e0ab389180f-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyATB5xLearning/reportsallure/0c989a24-b78c-4f43-b5d3-7696bf81245f-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyATB5xLearning/reportsallure/21e4bab4-96a7-47e4-b169-653bca718215-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyATB5xLearning/reportsallure/23f79e76-d88b-4bbc-8e64-8bc49e66dde4-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyATB5xLearning/reportsallure/30421bd7-290b-4096-bb51-65e1749aa29e-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyATB5xLearning/reportsallure/3b0538dd-e10b-44ab-bcfa-64b62a2e29a4-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyATB5xLearning/reportsallure/404d201d-291e-42ff-a82a-9ab5ec18834a-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyATB5xLearning/reportsallure/8306ee8d-ca89-43ea-8bb4-c1e69178bca4-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyATB5xLearning/reportsallure/927a8b2e-8f75-4a51-a401-602a3bb47dda-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyATB5xLearning/reportsallure/9fe7109d-8159-4ba6-8aeb-1b88d7a09169-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyATB5xLearning/reportsallure/a888ce90-bfd0-4f6f-a8e6-1d68ff57c081-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyATB5xLearning/reportsallure/b4b66cde-c1d9-4638-965b-92432cf94723-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyATB5xLearning/reportsallure/cb665daa-31fe-4b7b-95d6-31e86d92f995-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyATB5xLearning/reportsallure/cf57cd6a-a1a2-49e2-a442-a06d17921ab0-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyATB5xLearning/reportsallure/dfd8c9dd-75a5-4769-ade2-502df4653778-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyATB5xLearning/reportsallure/e183bf38-2044-40e2-8d5e-003b5e8a77fa-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allurereports/10df0eca-ded7-437d-8444-b726b180bb93-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allurereports/1f96347d-459a-47f0-82a8-ab54850afa61-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allurereports/43f4c5e2-ea67-465c-a6d5-6137c4f2583f-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allurereports/580412b6-0449-4078-aaa2-090d4d858bbe-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allurereports/5f015c45-bf8a-4aed-bb20-4e5d94df128a-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allurereports/62c0933c-13b5-4d27-ae2b-e1d49200bf69-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allurereports/6556c5b9-ef90-4cf9-8c6f-524041756741-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allurereports/67ea3b3c-a25d-4b57-ad9e-95ee5c395632-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allurereports/86eeb709-bcd3-49af-941d-2533caf18e8e-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allurereports/883dcfde-15a9-4102-ab94-43323357a768-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allurereports/8c9d45b7-ef9a-47de-806b-e7d8f808960b-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allurereports/921f0927-da3c-41c4-8e57-0fe3a0cadae2-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allurereports/acb6a80f-7fd2-4a66-8971-7b6310787d43-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allurereports/b1bb32e5-5d1e-4995-bc83-c745cddeed80-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allurereports/c4e312a8-a186-47e4-96aa-051026d77e94-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allurereports/db25ea03-257d-4cc0-970d-6442b91cce16-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allurereports/e1735d8f-8a54-458a-aaf5-e7ff46138b76-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allurereports/ecba7a3a-1bd8-4017-9386-891ba49d90a8-result.json" afterDir="false" />
+    <list default="true" id="b5c3d3ef-fcde-4ea3-a8f7-0b474073644b" name="Changes" comment="Allure reports files commit">
+      <change afterPath="$PROJECT_DIR$/PyATB5xLearning/.idea/PyATB5xLearning.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,6 +44,11 @@
     "last_opened_file_path": "C:/Users/SwapnilBahe/PycharmProjects/PythonAutomationTestingStudy"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\SwapnilBahe\PycharmProjects\PythonAutomationTestingStudy" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -119,6 +65,19 @@
       <option name="presentableId" value="Default" />
       <updated>1737274131822</updated>
     </task>
+    <task id="LOCAL-00001" summary="Allure reports files commit">
+      <option name="closed" value="true" />
+      <created>1737274697231</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1737274697231</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Allure reports files commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Allure reports files commit" />
   </component>
 </project>
