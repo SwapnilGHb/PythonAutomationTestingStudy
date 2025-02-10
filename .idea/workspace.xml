@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b5c3d3ef-fcde-4ea3-a8f7-0b474073644b" name="Changes" comment="Allure reports files commit">
-      <change afterPath="$PROJECT_DIR$/PyATB5xLearning/.idea/PyATB5xLearning.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyATB5xLearning/Dec/ex_28122024_Pytest/test_Lab189_Pytest_GET.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -16,21 +16,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "SwapnilGHb"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;SwapnilGHb&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/SwapnilGHb/PythonAutomationTestingStudy.git",
-    "accountId": "00afdffe-b064-4795-ab45-c5a052cd4a5b"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/SwapnilGHb/PythonAutomationTestingStudy.git&quot;,
+    &quot;accountId&quot;: &quot;00afdffe-b064-4795-ab45-c5a052cd4a5b&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2rq6Cdqh033qy8gNQw29xNG5w1N" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -40,12 +40,14 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/SwapnilBahe/PycharmProjects/PythonAutomationTestingStudy"
+    "last_opened_file_path": "C:/Users/SwapnilBahe/PycharmProjects/PythonAutomationTestingStudy/PyATB5xLearning/Dec/ex_28122024_Pytest"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\SwapnilBahe\PycharmProjects\PythonAutomationTestingStudy\PyATB5xLearning\Dec\ex_28122024_Pytest" />
       <recent name="C:\Users\SwapnilBahe\PycharmProjects\PythonAutomationTestingStudy" />
     </key>
   </component>
@@ -73,7 +75,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737274697231</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Allure reports files commit">
+      <option name="closed" value="true" />
+      <created>1737276592226</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1737276592226</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
